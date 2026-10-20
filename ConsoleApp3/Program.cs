@@ -4,11 +4,11 @@ namespace ConsoleApp3;
 
 class Program
 {
-    static void Main(string[] args)
+    /*static void Main(string[] args)
     {
         Console.WriteLine("matrix.GetLength(0)");
         Console.WriteLine("matrix.GetLength(1)");
-    }
+    }*/
 
     static int[] Above(int[,] matrix, int limit)
     {
